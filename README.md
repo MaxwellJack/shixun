@@ -13,10 +13,13 @@
 其中有维基百科的word2vec的训练，代码和原理链接：https://github.com/CharlesAlison/wiki_zh_word2vec
 
 最后是对词向量的训练，我们有两种方式
-利用最大熵模型来训练词向量 链接：https://blog.csdn.net/ssssdbucdbod/article/details/81487667
+利用最大熵模型来训练词向量 链接：https://blog.csdn.net/ssssdbucdbod/article/details/81487667 
+代码链接：https://github.com/CharlesAlison/shixun/blob/master/%E6%9C%80%E5%A4%A7%E7%86%B52.py
+
 其中遇到问题 MaxentClassifier.train（）遇到错误AttributeError: 'list' object has no attribute 'items' 链接：https://blog.csdn.net/ssssdbucdbod/article/details/81149814
 
-KNN、贝叶斯来训练词向量，链接：https://blog.csdn.net/ssssdbucdbod/article/details/81488062
+KNN、贝叶斯来训练词向量，链接：https://blog.csdn.net/ssssdbucdbod/article/details/81488062  
+代码链接：https://github.com/CharlesAlison/shixun/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AFKNN.py
 
 
 
